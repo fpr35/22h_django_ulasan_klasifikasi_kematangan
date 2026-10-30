@@ -19,7 +19,7 @@ Berikut adalah link download model [Klik di sini](https://drive.google.com/file/
 
 ## Perkenalan Tim
 
-- **Fito Patria** - [Membuat Fitur Machine Learning, CRUD, dan semua yang berhubungan dengan backend]
+- **Fito Patria** - [Membuat Fitur Machine Learning, CRUD, dan semua sisanya]
 - **Havid Danggo Pamungkas** - [Membuat Tampilan Bagian Artikel]
 - **Raflesia Mukhlis Juliyanto** - [Membuat Tampilan Bagian About]
 - **Yosafat Gerrimandaril** - [Membuat Tampilan Bagian Footer]
